@@ -1,0 +1,8 @@
+D:\Users\79892\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Users\79892\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Users\79892\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Users\79892\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Users\79892\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\Users\79892\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Users\79892\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Users\79892\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
